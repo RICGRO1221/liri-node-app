@@ -4,10 +4,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ## LIRI will display your latest tweets, song and movie requested. 
 
-## node liri.js my-tweets
+###### node liri.js my-tweets
 This will show your last 20 tweets and when they were created.
 
-## node liri.js spotify-this-song '<song name>'
+###### node liri.js spotify-this-song '<song name>'
 This will show information about the song (name)
 
 
