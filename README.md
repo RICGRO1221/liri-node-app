@@ -8,7 +8,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 This will show your last 20 tweets and when they were created.
 
 ###### node liri.js spotify-this-song '<song name>'
-This will show information about the song (name)
+This will show information about the song (name, artist, album)
 
 
 ```
