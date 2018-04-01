@@ -10,6 +10,8 @@ This will show your last 20 tweets and when they were created.
 ###### node liri.js spotify-this-song '<song name>'
 This will show information about the song (name, artist, album)
 
+###### node liri.js movie-this '<movie name here>'
+This will output the movie information (Title, Year, Rating, Plot)
 
 ```
 const dotenv = require('dotenv');
